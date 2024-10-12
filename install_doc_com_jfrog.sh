@@ -26,6 +26,6 @@ sudo docker-compose logs --follow
 #for refrence
 #https://www.coachdevops.com/2023/01/install-artifactory-using-docker.html
 
-sudo apt remove --purge openjdk-\*
-sudo apt install openjdk-11-jdk
-sudo apt install maven -y
+#sudo apt remove --purge openjdk-\*
+#sudo apt install openjdk-11-jdk
+#sudo apt install maven -y
